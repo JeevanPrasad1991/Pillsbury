@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="12dp"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp"
+    android:paddingTop="4dp"
+    android:weightSum="100">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:id="@+id/textsku"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="8"
+                android:padding="10dp"
+                android:text="Premium Gold Atta 5 kg"
+                android:textStyle="bold"
+                android:singleLine="true"
+                android:gravity="center_vertical"
+                android:textColor="@color/black"
+                android:textSize="14dp" />
+
+            <ToggleButton
+                android:id="@+id/stock_toggle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="0.5dp"
+                android:layout_weight="2"
+                android:textOn="Yes"
+                android:textOff="No"
+                />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="#2798dc" />
+
+</LinearLayout>

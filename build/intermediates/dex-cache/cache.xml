@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jeevanp.CPMIN.000\.android\build-cache\d2a26f76b962776a6dd2a14b5daa62ca4500e53d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fd6f79f6ad98a5703310a57c88283b1b575acf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jeevanp.CPMIN.000\.android\build-cache\55d2b41a96558719e1cdda615e01e36fee02cda3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b935fb61e2992088fac98e1cee145d5b3e81bac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\2\acra-4.4.0_bf0e4f7d8803e3fe6f13589de7d5d4eaf216f03f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jeevanp.CPMIN.000\.android\build-cache\38171d053bf104b32a134ba060ac98452e0038a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\classes_294bacf13d5e422f9f69fe6c2fdd215ef1a03db2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.0.0-jar-with-dependencies_c804318a6699f0b204a7c6e4d394ba76795b5c4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jeevanp.CPMIN.000\.android\build-cache\95688d6a94271785a588368c25fbe404fc762792\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9682d9f4a31fffc864b2fc8ef55a9dfadff616be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jeevanp.CPMIN.000\.android\build-cache\ff8c4bbed88cf91524b99d55b561b734c17c2857\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d905b5f05d1071b81a778d3ed826677a29bb0912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jeevanp.CPMIN.000\.android\build-cache\2dd594aeb18e8c0270a67b05d9e84ff73a01128a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e0a1a5cde0bdbcfabff7285d84ac15765021f97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jeevanp.CPMIN.000\.android\build-cache\f91cc7cc31b034855c180d54b5a9306f263645a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b750aaa1b77e48457dcdc946eb2c656412a3a3fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\java_jdk\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_6557e104bab3eda59b86f9b70f7a8b65e1dbc1bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jeevanp.CPMIN.000\.android\build-cache\38171d053bf104b32a134ba060ac98452e0038a8\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_c7e4f5c853d2c46707a73eabc78882b22fde246f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\pre-dexed\debug\acra-4.4.0_bf0e4f7d8803e3fe6f13589de7d5d4eaf216f03f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jeevanp.CPMIN.000\.android\build-cache\22fa12b49631ab846eb1f5c4bb41fdfba65a5409\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2aacbd2be3915f216a3578714933305e766a47d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="F:\jeevanAndroidProject\androidProject\Pillsbury\pillsburry\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies_c804318a6699f0b204a7c6e4d394ba76795b5c4b.jar" />
+    </item>
+
+</items>

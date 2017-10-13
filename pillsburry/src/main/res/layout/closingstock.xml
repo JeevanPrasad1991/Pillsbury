@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100" >
+
+    <LinearLayout
+        android:id="@+id/belowme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2798dc"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:id="@+id/txt_idealFor"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="100"
+            android:gravity="center"
+            android:paddingLeft="5dp"
+            android:text="Closing Stock"
+            android:textSize="20sp"
+            android:textStyle="italic" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="7"
+        android:background="#2798dc"
+        android:id="@+id/rll4"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <Button
+            android:id="@+id/butt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="30"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/save_btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="40"
+            android:text="  SAVE " />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#2798dc"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+    </LinearLayout>
+    <ExpandableListView
+        android:id="@+id/lvExp"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/rll4"
+        android:layout_marginTop="23dp"
+        android:layout_marginBottom="2dp"
+        android:cacheColorHint="#00000000" />
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UnknownId"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+</LinearLayout>
+
+</RelativeLayout>

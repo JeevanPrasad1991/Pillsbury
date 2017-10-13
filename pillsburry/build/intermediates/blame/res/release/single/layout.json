@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\ff8c4bbed88cf91524b99d55b561b734c17c2857\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\brand.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\brand.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\addperson.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\addperson.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\ff8c4bbed88cf91524b99d55b561b734c17c2857\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\promotion_tracker.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\promotion_tracker.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\competitor_listview.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\competitor_listview.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\nonworking.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\nonworking.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\stockrecieved_listview.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\stockrecieved_listview.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\promotion_trackinglistview.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\promotion_trackinglistview.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\mainpage.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\mainpage.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\stock_recieved.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\stock_recieved.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\update.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\addtional_before_display.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\addtional_before_display.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\editimages_sod.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\editimages_sod.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\thumbnail.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\thumbnail.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\work.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\work.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\opening_stock_data.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\opening_stock_data.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\reports.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\trainingfragmrnt.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\trainingfragmrnt.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\storename.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\storename.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\closingstock.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\closingstock.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\opening_stock.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\opening_stock.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\progressbar.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\progressbar.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\consolidatelist.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\consolidatelist.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\innerpepsicolistview.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\innerpepsicolistview.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\performancestorelist.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\performancestorelist.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\copy_upload_layout.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\copy_upload_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\performancestore_adapter.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\performancestore_adapter.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\listview_training.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\listview_training.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\dailyactivitymenu.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\dailyactivitymenu.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\closingstocl_item.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\closingstocl_item.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\remarks.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\remarks.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\saleoutlooklist_inflater.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\saleoutlooklist_inflater.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\ff8c4bbed88cf91524b99d55b561b734c17c2857\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\consolidateadapter.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\consolidateadapter.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\custom.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\titlebg.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\titlebg.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\posmlist.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\posmlist.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\tab_indicator.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\fragment_layout.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\tabhost.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\tabhost.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\brandlistview.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\brandlistview.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\asset_trackerlistview.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\asset_trackerlistview.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\asset_tracks.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\asset_tracks.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\addtional_list.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\addtional_list.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\posmlistadapter.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\posmlistadapter.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\tst.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\tst.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\lunch_time.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\lunch_time.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\calls.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\calls.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\competionlist.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\competionlist.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\gps_location.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\gps_location.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\shareofdisplay.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\shareofdisplay.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\competitionlistinflat.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\competitionlistinflat.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\deviationmenu.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\deviationmenu.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\traininglayout.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\traininglayout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\ff8c4bbed88cf91524b99d55b561b734c17c2857\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\asset_tracker.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\asset_tracker.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\geo_tag_listpage.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\geo_tag_listpage.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\upload_option.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\upload_option.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\geoviewlist.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\geoviewlist.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\storeviewlist.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\storeviewlist.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\layout_closingstock_listed.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\layout_closingstock_listed.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\competetion_facing.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\competetion_facing.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\autoupdate.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\autoupdate.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\openingbrand.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\openingbrand.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\images_sos.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\images_sos.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\updatetam_listrow.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\updatetam_listrow.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\updatetam_list.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\updatetam_list.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\addsalesperson.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\addsalesperson.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\store_visited.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\store_visited.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\contentstoreimage.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\contentstoreimage.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\salelist_inflater.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\salelist_inflater.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\editimages_promotion.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\editimages_promotion.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\closingstock_listview.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\closingstock_listview.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\listsales.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\listsales.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\new_main.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\new_main.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\performance_management.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\performance_management.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\training.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\training.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\openingstockviewlist.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\openingstockviewlist.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\loging.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\loging.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\layout\\listsalesoutlook.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\layout\\listsalesoutlook.xml"
+    }
+]

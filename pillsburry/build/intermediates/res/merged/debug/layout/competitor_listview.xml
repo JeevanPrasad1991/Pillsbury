@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login_header"
+    android:orientation="vertical" >
+
+    <!-- Include Header Bar -->
+
+    <LinearLayout
+        android:id="@+id/flexviewlist_contentarea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_selector"
+        android:weightSum="10" >
+
+
+        <RelativeLayout
+            android:id="@+id/flexviewlist_1C"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3sp"
+            android:layout_weight="4" >
+
+            <TextView
+                android:id="@+id/category"
+                android:layout_width="fill_parent"
+                android:layout_height="55sp"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="compliance"
+                android:textSize="15sp" >
+            </TextView>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/flexviewlist_2C"
+            android:layout_width="0dip"
+            android:layout_height="50sp"
+            android:layout_marginRight="2sp"
+            android:layout_weight="5"
+            android:padding="1sp" >
+
+            <EditText
+                android:id="@+id/quantity"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:inputType="number"
+                android:maxLength="6"
+                android:layout_centerInParent="true"
+                 />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

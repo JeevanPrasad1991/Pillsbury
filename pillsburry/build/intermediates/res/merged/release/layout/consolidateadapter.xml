@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+   >
+
+    <LinearLayout
+       
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+       
+       android:background="@drawable/bg"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:id="@+id/txt_tam"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:paddingLeft="5dp"
+            android:singleLine = "true"
+            android:textSize="15sp"
+            android:layout_weight="25"
+            android:gravity="center"
+            android:text="txttxttxttxttxttxt" />
+        <TextView
+            android:id="@+id/txt_sales"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:paddingLeft="5dp"
+            android:singleLine = "true"
+              android:textSize="15sp"
+             android:layout_weight="25"
+            android:gravity="center"
+            android:text="txttxttxttxttxttxt" />
+        <TextView
+            android:id="@+id/txt_share"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:paddingLeft="5dp"
+            android:singleLine = "true"
+              android:textSize="15sp"
+             android:layout_weight="25"
+            android:gravity="center"
+            android:text="txttxttxttxttxttxt" />
+        <TextView
+            android:id="@+id/txt_terriority"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:paddingLeft="5dp"
+            android:singleLine = "true"
+            android:layout_weight="25"
+              android:textSize="15sp"
+            android:gravity="center"
+            android:text="txttxttxttxttxttxt" />
+        
+     
+       
+          
+        </LinearLayout>
+        
+    </LinearLayout>

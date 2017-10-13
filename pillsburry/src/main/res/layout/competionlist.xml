@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+      android:background="#2798dc"
+    android:orientation="vertical" 
+    
+   android:weightSum="100">
+
+    
+    
+    <LinearLayout
+       
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:background="#2798dc"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:id="@+id/txt_idealFor"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:paddingLeft="1dp"
+            android:layout_weight="20"
+            android:gravity="center"
+            android:visibility="invisible"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/txt_type"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="20"
+            android:visibility="invisible"
+            android:gravity="center"
+            android:text="Model" />
+
+        <TextView
+            android:id="@+id/txt_models"
+            android:layout_width="0dp"
+            android:visibility="invisible"
+            android:layout_height="match_parent"
+            android:layout_weight="15"
+            android:gravity="center"
+            android:text="Price" />
+
+       <TextView
+            android:id="@+id/txt_type"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="45"
+            android:background="#2787C2"
+            android:gravity="center"
+            android:text="Sales"
+           tools:ignore="DuplicateIds" />
+       
+           
+        
+    </LinearLayout>
+    <LinearLayout
+       
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".5"
+        android:background="#2798dc"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:id="@+id/txt_idealFor"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:paddingLeft="1dp"
+            android:layout_weight="20"
+            tools:ignore="DuplicateIds"
+            android:gravity="center"
+            android:visibility="invisible"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/txt_type"
+            tools:ignore="DuplicateIds"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="20"
+            android:visibility="invisible"
+            android:gravity="center"
+            android:text="Model" />
+
+        <TextView
+            android:id="@+id/txt_models"
+            tools:ignore="DuplicateIds"
+            android:layout_width="0dp"
+            android:visibility="invisible"
+            android:layout_height="match_parent"
+            android:layout_weight="15"
+            android:gravity="center"
+            android:text="Price" />
+
+       <TextView
+            android:id="@+id/txt_type"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="45"
+           tools:ignore="DuplicateIds"
+            android:background="#166799"
+            android:visibility="invisible"
+            android:gravity="center"
+            android:text="Sales" />
+       
+           
+        
+    </LinearLayout>
+    <LinearLayout
+       
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="13"
+        android:background="#2798dc"
+        android:orientation="horizontal"
+        android:weightSum="100" >
+
+        <TextView
+            android:id="@+id/txt_idealFor"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:paddingLeft="1dp"
+            tools:ignore="DuplicateIds"
+            android:layout_weight="20"
+            android:gravity="center"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/txt_type"
+            android:layout_width="0dp"
+            tools:ignore="DuplicateIds"
+            android:layout_height="match_parent"
+            android:layout_weight="20"
+            android:gravity="center"
+            android:text="Model" />
+
+        <TextView
+            android:id="@+id/txt_models"
+            android:layout_width="0dp"
+            tools:ignore="DuplicateIds"
+            android:layout_height="match_parent"
+            android:layout_weight="15"
+            android:gravity="center"
+            android:text="Price" />
+
+       <TextView
+            android:id="@+id/txt_type"
+            android:layout_width="0dp"
+           tools:ignore="DuplicateIds"
+            android:layout_height="match_parent"
+            android:layout_weight="15"
+                    android:textSize="13sp"
+            android:gravity="center"
+            android:background="#2787C2"
+            android:text="Last    Month" />
+       <TextView
+            android:id="@+id/txt_type"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="15"
+           tools:ignore="DuplicateIds"
+            android:gravity="center"
+             android:background="#2787C2"
+                     android:textSize="13sp"
+            android:text="Till      Date" />
+       <TextView
+            android:id="@+id/txt_type"
+            android:layout_width="0dp"
+           tools:ignore="DuplicateIds"
+            android:layout_height="match_parent"
+            android:layout_weight="15"
+            android:gravity="center"
+             android:background="#2787C2"
+             android:textSize="13sp"
+            android:text="Outlook" />
+
+           
+        
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" 
+          android:background="#ffffff"
+        android:layout_weight="82">
+       
+
+    </ListView>
+ <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+     android:textSize="18sp"
+        android:text="Save" />
+</LinearLayout>

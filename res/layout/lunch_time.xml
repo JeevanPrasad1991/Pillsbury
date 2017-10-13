@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+      android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+   android:paddingTop="@dimen/activity_vertical_margin"
+    android:weightSum="100" >
+    
+    
+    
+        <LinearLayout
+        android:id="@+id/belowme"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#2798dc"
+        
+        android:orientation="horizontal"
+        android:layout_weight="15" >
+
+        <TextView
+            android:id="@+id/txt_idealFor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  Lunch Timings"
+            android:textSize="15sp"
+          />
+        
+    </LinearLayout>
+    
+     <LinearLayout
+         android:id="@+id/second12to3"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+         android:weightSum="10" 
+         android:layout_weight="15">
+
+        <TextView
+            android:id="@+id/FromTime"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+           android:layout_weight="5"
+            android:gravity="center_vertical"
+            android:text="From"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+              <TextView 
+         android:id="@+id/timePicker1" 
+         android:layout_width="wrap_content" 
+         android:layout_height="wrap_content"  
+         android:layout_weight="5"
+         android:text="From Time"
+         android:textSize="15sp"/>
+              
+                 <Button
+         android:id="@+id/btnSetTime"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_weight="5"
+         android:text="Start Time" />
+
+    </LinearLayout>
+
+<!--      <Button -->
+<!--          android:id="@+id/btnSetTime" -->
+<!--          android:layout_width="match_parent" -->
+<!--          android:layout_height="wrap_content" -->
+<!--          android:layout_weight="3" -->
+<!--          android:text="Set Time" /> -->
+     
+      <LinearLayout
+        android:id="@+id/second"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+         android:weightSum="10"
+         android:layout_weight="15">
+
+        <TextView
+            android:id="@+id/ToTime"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:textSize="15sp"
+            android:gravity="center_vertical"
+            android:text="To"
+            android:layout_weight="5"
+            android:textStyle="bold"
+          />
+
+
+<TextView 
+             android:id="@+id/timePicker2" 
+         android:layout_width="wrap_content" 
+         android:layout_height="wrap_content"  
+         android:layout_weight="5"
+         android:text="To Time"
+         android:textSize="15sp"/>
+
+
+   <Button
+               android:id="@+id/btnChangeTime"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Finish Time" 
+               android:layout_weight="5"/>
+    </LinearLayout>
+    
+        
+       <LinearLayout
+        android:id="@+id/btn_aalassyout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="14.2"
+        android:visibility="invisible">
+
+
+         <Button
+             android:id="@+id/saves_btn"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Save" />
+        
+    </LinearLayout>
+    
+            <LinearLayout
+        android:id="@+id/btn_aalaysout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:orientation="horizontal"
+        android:visibility="invisible"
+        android:layout_weight="14.2">
+
+         <Button
+             android:id="@+id/saaves_btn"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Save" />
+        
+    </LinearLayout>
+    
+                 <LinearLayout
+        android:id="@+id/btn_aalasyout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:orientation="horizontal"
+        android:visibility="invisible"
+        android:layout_weight="14.2">
+
+         <Button
+             android:id="@+id/saasve_btn"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Save" />
+        
+    </LinearLayout>
+      
+      
+     <LinearLayout
+        android:id="@+id/btn_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="14.2"
+        android:orientation="horizontal">
+
+         
+        
+    </LinearLayout>
+    
+        
+       <LinearLayout
+        android:id="@+id/btn_aalayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="15">
+
+
+         <Button
+             android:id="@+id/save_btn"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Save"
+             android:textSize="15sp" />
+        
+    </LinearLayout>
+
+</LinearLayout>
+

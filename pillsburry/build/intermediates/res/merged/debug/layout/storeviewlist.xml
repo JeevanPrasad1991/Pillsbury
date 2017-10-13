@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login_header"
+    android:orientation="vertical"
+     >
+
+    <RelativeLayout
+        android:id="@+id/storenamelistview_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       android:background="@drawable/list_selector"
+        android:padding="10sp" 
+        >
+
+        <ImageView
+            android:id="@+id/storelistviewxml_storeico"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="6sp"
+            android:paddingTop="5sp"
+            android:background="@drawable/store" />
+
+        <TextView
+            android:id="@+id/storelistviewxml_storename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/storelistviewxml_storeico"
+            android:layout_toRightOf="@+id/storelistviewxml_storeico"
+            android:text="Balaji Tele Communication"
+            android:textColor="#1F3A6C"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/storelistviewxml_storeaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/storelistviewxml_storename"
+            android:layout_below="@+id/storelistviewxml_storename"
+            android:text="C 126"
+            android:textColor="#666666"
+            android:textSize="10sp"
+            android:textStyle="normal" />
+        
+        <Button
+            android:id="@+id/chkout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:focusable="false"
+            android:text=""
+            android:visibility="visible" />
+    </RelativeLayout>
+
+</RelativeLayout>

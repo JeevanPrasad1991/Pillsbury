@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/geolistviewxml"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1sp"
+        android:background="#E8E8E8"
+        android:padding="10sp" >
+
+        <ImageView
+            android:id="@+id/geolistviewxml_storeico"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="6sp"
+            android:src="@drawable/storeico" 
+            android:paddingTop="5sp"
+            />
+
+        <TextView
+            android:id="@+id/geolistviewxml_storename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/geolistviewxml_storeico"
+            android:layout_toRightOf="@+id/geolistviewxml_storeico"
+            android:text="Balaji Tele Communication"
+            android:textColor="#1F3A6C"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/geolistviewxml_storeaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/geolistviewxml_storename"
+            android:layout_below="@+id/geolistviewxml_storename"
+            android:text="C 126, Okhla II, Okhla Industrial Area, Delhi 20"
+            android:textColor="#666666"
+            android:textSize="10sp"
+            android:textStyle="normal" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/geolistviewxml_storeico"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/geopin" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

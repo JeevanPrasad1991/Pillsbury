@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ico_actionbar.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ico_actionbar.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_place.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_action_place.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_checkin.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_checkin.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_location_found.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_action_location_found.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_search.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_direction.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_action_direction.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_help.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_location.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_my_places.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_my_places.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_refresh.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_latitude.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable-xxhdpi\\ic_latitude.png"
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_autoupdate.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_autoupdate.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\stock_recieved_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\stock_recieved_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\download_btn.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\download_btn.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_posmexecution.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_posmexecution.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\button_customlayout.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\button_customlayout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\calls.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\calls.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\togglecolor.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\togglecolor.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\closing_stock.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\closing_stock.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\f91cc7cc31b034855c180d54b5a9306f263645a6\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_training.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_training.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\sign_in_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\sign_in_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\posm_deployed_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\posm_deployed_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_checkout.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_checkout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\list_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_salesthru.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_salesthru.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\opening_stock.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\opening_stock.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\bg.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\back_btn_bg.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\back_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\login_header.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\login_header.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\openingstock_display_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\openingstock_display_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\gradient_bg_hover.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\geotag_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\geotag_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_skuavailability.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_skuavailability.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_sdisplay.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_sdisplay.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\gradient_bg.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\promotions.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\promotions.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\dailyentry_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\dailyentry_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\reportsel.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\reportsel.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\exit_btn.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\exit_btn.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\geo_tag_btn.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\geo_tag_btn.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\geo_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\geo_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\consolidate_sel.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\consolidate_sel.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\ic_listedsku.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\ic_listedsku.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_upload.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_upload.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\f91cc7cc31b034855c180d54b5a9306f263645a6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_soself.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_soself.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\title_bg.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\title_bg.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\f91cc7cc31b034855c180d54b5a9306f263645a6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\tab_highlight.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\tab_highlight.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_exit.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_exit.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\tab_text_indicator.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\tab_text_indicator.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\camerabtn.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\camerabtn.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_dailyentry.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_dailyentry.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\exit_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\exit_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\f91cc7cc31b034855c180d54b5a9306f263645a6\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\daily_entry_btn.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\daily_entry_btn.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\upload_btn.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\upload_btn.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\report_hover_ico.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\report_hover_ico.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_focussku.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_focussku.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\download_data_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\download_data_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\asset_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\asset_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\tab_background.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\tab_background.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\f91cc7cc31b034855c180d54b5a9306f263645a6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\callselector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\callselector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_posmtheme.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_posmtheme.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\promotion_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\promotion_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\upload_data_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\upload_data_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\title_header.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\title_header.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\assets.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\assets.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\titletext_bg.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\titletext_bg.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\auto_update_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\auto_update_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\tab_indicator.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\background.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\custome_border.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\custome_border.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\stock_recieved.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\stock_recieved.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\f91cc7cc31b034855c180d54b5a9306f263645a6\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_downloaddata.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_downloaddata.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\storewise_sel.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\storewise_sel.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\btn_flex.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\btn_flex.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\toggle_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\toggle_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\editboxtext.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\editboxtext.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\f91cc7cc31b034855c180d54b5a9306f263645a6\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\innerbtn.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\innerbtn.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\report_ico.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\report_ico.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\closing_stock_selector.xml",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\closing_stock_selector.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\jeevanp.CPMIN.000\\.android\\build-cache\\f91cc7cc31b034855c180d54b5a9306f263645a6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\build\\intermediates\\res\\merged\\release\\drawable\\ic_listedsku_tick.png",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\Pillsbury\\pillsburry\\src\\main\\res\\drawable\\ic_listedsku_tick.png"
+    }
+]

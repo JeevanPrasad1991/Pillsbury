@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#a8a8a8" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Click Store Front Image"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <!--
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+
+        >
+
+        <ImageView
+            android:id="@+id/imgloreal"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:src="@drawable/loreal"
+            android:layout_centerInParent="true"
+            />
+
+    </RelativeLayout>
+    -->
+
+    <RelativeLayout
+        android:id="@+id/rel_selfie"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" 
+        android:layout_weight="8">
+
+        <ImageView
+            android:id="@+id/img_selfie"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/img_cam_selfie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/camera" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_save_selfie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="24dp"
+        android:background="#a8a8a8"
+        android:padding="10dp"
+        android:text="Save"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

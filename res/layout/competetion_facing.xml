@@ -1,0 +1,113 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login_header"
+    android:orientation="vertical"
+    android:weightSum="10"
+     >
+
+    <!-- Include Header Bar -->
+    
+   
+        <TextView
+              android:id="@+id/posm"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".5"
+            android:background="@drawable/titletext_bg"
+            android:textColor="#ffffff"
+            android:text="Competition SOS"
+            android:textSize="20sp" />
+        
+        
+        <TextView
+              android:id="@+id/storeName"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".3"
+            android:background="@drawable/titletext_bg"
+            android:textColor="#ffffff"
+
+            android:textSize="13sp" />
+    
+    
+
+    <LinearLayout
+        android:id="@+id/pepsicolistview_chartcontentarea1"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight=".7"
+         android:background="#f26d20"
+        android:weightSum="10" >
+
+            <TextView
+                android:id="@+id/pepsicolistview_1c_titletexta"
+                android:layout_width="0dp"
+                android:layout_weight="5"
+                android:layout_height="match_parent"
+                
+                android:gravity="center_vertical"
+                
+                android:text="  Name"
+                android:textColor="#ffffff"
+                
+                android:textSize="14sp"
+                 android:background="#2798dc"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/pepsicolistvifew_1c_titletexta"
+                android:layout_width="0dp"
+                android:layout_weight="5"
+                android:layout_height="match_parent"
+             android:gravity="center"
+                android:text="Facing"
+               
+                android:textColor="#ffffff"
+                 android:background="#2798dc"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+   
+            <TextView
+                android:id="@+id/pepsicolistview_1c_titletextaaa"
+                android:layout_width="0dp"
+                android:layout_weight="0"
+                
+                android:layout_height="match_parent"
+                 android:background="#2798dc"
+     			 android:gravity="center"
+                android:text=" Picture"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+             
+                android:textStyle="normal" />
+        
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7.66"
+        android:cacheColorHint="#00000000"
+        android:choiceMode="none"
+        android:divider="#2798dc"
+        android:dividerHeight="2dp" >
+    </ListView>
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="90sp"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="5sp"
+        android:layout_weight=".6"
+        android:background="#2798dc"
+        android:onClick="onButtonClick"
+        android:text="Save"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+</LinearLayout>

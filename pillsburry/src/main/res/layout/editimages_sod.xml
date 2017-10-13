@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/innerlistview_storetitlearea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/titletext_bg"
+        android:padding="10sp" >
+
+        <TextView
+            android:id="@+id/innerlistview_storename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Capture "
+            android:textColor="#e2e2e2"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/innerlistview_store_orginalname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3sp"
+            android:layout_toRightOf="@+id/innerlistview_storename"
+            android:text="Images"
+            android:textColor="#e2e2e2"
+            android:textSize="13sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/innerlistview_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/innerlistview_storetitlearea"
+        android:padding="15px" >
+
+        <RelativeLayout
+            android:id="@+id/innerlistview_r1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:paddingBottom="5sp" >
+
+            <TextView
+                android:id="@+id/innerlistview_text1"
+                android:layout_width="70sp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="30sp"
+                android:text="Left"
+                android:textColor="#313131"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="100dp"
+                android:layout_toRightOf="@+id/geotag_camera1"
+                android:src="@drawable/noimg" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/innerlistview_r2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/innerlistview_r1"
+            android:paddingBottom="5sp" >
+
+            <TextView
+                android:id="@+id/innerlistview_text2"
+                android:layout_width="70sp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="30sp"
+                android:text="Right"
+                android:textColor="#313131"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="100dp"
+                android:layout_toRightOf="@+id/geotag_camera2"
+                android:src="@drawable/noimg" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/innerlistview_r3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/innerlistview_r2"
+            android:paddingBottom="5sp" >
+
+            <TextView
+                android:id="@+id/innerlistview_text3"
+                android:layout_width="70sp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="30sp"
+                android:text="Center"
+                android:textColor="#313131"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/geotag_camera3"
+                android:layout_marginLeft="100dp"
+                android:layout_toRightOf="@+id/geotag_camera3"
+                android:src="@drawable/noimg" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

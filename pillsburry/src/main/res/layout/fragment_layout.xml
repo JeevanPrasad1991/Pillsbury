@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cpm.pillsbury.DashboardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="#f8f9fe" >
+
+    <!-- Daily Entry Button -->
+
+    <Button
+        android:id="@+id/dash_dailyentry"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_dailyentry"
+        android:onClick="onButtonClick"
+        android:text="Daily Entry" />
+
+    <!-- Download Button -->
+
+    <Button
+        android:id="@+id/dash_download"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_downloaddata"
+        android:onClick="onButtonClick"
+        android:text="Download Data" />
+
+    <!-- Upload Button -->
+
+    <Button
+        android:id="@+id/dash_upload"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_upload"
+        android:onClick="onButtonClick"
+        android:text="Upload Data" />
+
+    <!-- Auto Update Button -->
+
+    <Button
+        android:id="@+id/auto_update"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_autoupdate"
+        android:onClick="onButtonClick"
+        android:text="Auto Update" />
+
+    <!-- GEO Tag Button -->
+
+
+ <Button
+        android:id="@+id/exit"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_exit"
+        android:gravity="center_horizontal"
+        android:onClick="onButtonClick"
+        android:text="Exit" />
+ 
+    <Button
+        android:id="@+id/geotag"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/places_default"
+        android:gravity="center_horizontal"
+        android:onClick="onButtonClick"
+        android:visibility="invisible"
+        android:text="Geo Tag" />
+    
+    
+
+    <!-- Exit Button -->
+
+   
+
+</com.cpm.pillsbury.DashboardLayout>
